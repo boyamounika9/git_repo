@@ -1,2 +1,3 @@
 # git_repo
-it is a practice swession of git and github
+it is a practice session of git and github
+by @Mounika
